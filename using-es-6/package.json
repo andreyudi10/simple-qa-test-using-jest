@@ -1,0 +1,21 @@
+{
+  "name": "using-es-6",
+  "version": "1.0.0",
+  "description": "using es-6",
+  "main": "no",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "jest",
+    "@babel/preset-env",
+    "all",
+    "dev"
+  ],
+  "author": "andreyudi",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.14.4",
+    "jest": "^27.0.3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "node-js-js",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.3"
+  }
+}
